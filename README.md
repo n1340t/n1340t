@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Bao Tran and 🔭 I’m software engineer from Canada.   
-I work at Track Revenue as Support Engineer. Feel free to contact me at nguyenbao1003@hotmail.com
+I work at Lynk Global as Software Engineer. Feel free to contact me at nguyenbao1003@hotmail.com
 
 🌱 I’m currently learning Data Structure and Algorithm to broaden my knowledge.
 <!--
